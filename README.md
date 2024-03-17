@@ -47,7 +47,7 @@ Employed Natural Language Processing techniques to analyze sentiments expressed 
 - Visualized results using Matplotlib and Seaborn libraries.
 
 #### Results:
-- Achieved an accuracy of XX% in sentiment classification.
+- Achieved an accuracy of 74% in sentiment classification.
 - Provided valuable insights to improve service quality and customer satisfaction.
 
 ...
