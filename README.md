@@ -5,7 +5,7 @@ Hello! I’m Pranay Kumar, a final-year B.Tech Computer Science student speciali
 I am dedicated to lifelong learning, demonstrated by my certifications in AI/ML and Python for Data Science, and am adept at working with diverse tools and frameworks to build data-driven solutions.
 
 ### Key Projects
-- **[Heart Disease Prediction Web Application](https://github.com/yourusername/heart-disease-prediction)**  
+- **[Heart Disease Prediction Web Application]([https://github.com/yourusername/heart-disease-prediction](https://github.com/Pranaykumar30/A-Comparative-Study-of-Heart-Disease-Prediction-Using-Machine-Learning-Algorithms.git))**  
   A web application powered by machine learning to predict heart disease risk with **100% accuracy**. Features include interactive forms and insightful data visualization to support medical assessments.
 
 - **[Online Railway Reservation System](https://github.com/yourusername/online-railway-reservation)**  
