@@ -8,7 +8,7 @@ I am dedicated to lifelong learning, demonstrated by my certifications in AI/ML 
 - **[Heart Disease Prediction Web Application](https://github.com/Pranaykumar30/A-Comparative-Study-of-Heart-Disease-Prediction-Using-Machine-Learning-Algorithms.git)**  
   A web application powered by machine learning to predict heart disease risk with **100% accuracy**. Features include interactive forms and insightful data visualization to support medical assessments.
 
-- **[Online Railway Reservation System](https://github.com/yourusername/online-railway-reservation)**  
+- **[Online Railway Reservation System](https://github.com/Pranaykumar30/Online-Railway-Reservation-System.git)**  
   Designed a comprehensive railway reservation system using PHP, delivering a user-friendly and reliable ticket booking experience.
 
 - **[Bitcoin Price Prediction Using Time Series Analysis](https://github.com/yourusername/bitcoin-price-prediction)**  
