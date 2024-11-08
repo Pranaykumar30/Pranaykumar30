@@ -11,10 +11,10 @@ I am dedicated to lifelong learning, demonstrated by my certifications in AI/ML 
 - **[Online Railway Reservation System](https://github.com/Pranaykumar30/Online-Railway-Reservation-System.git)**  
   Designed a comprehensive railway reservation system using PHP, delivering a user-friendly and reliable ticket booking experience.
 
-- **[Bitcoin Price Prediction Using Time Series Analysis](https://github.com/yourusername/bitcoin-price-prediction)**  
+- **[Bitcoin Price Prediction Using Time Series Analysis](https://github.com/Pranaykumar30/Time-Series-Analysis-for-Bitcoin-Price-Prediction-using-Prophet.git)**  
   Analyzed and forecasted Bitcoin price trends using Prophet and Python. This project aids in strategic planning within the dynamic cryptocurrency landscape.
 
-- **[Sentiment Analysis of British Airways Reviews](https://github.com/yourusername/british-airways-review-analysis)**  
+- **[Sentiment Analysis of British Airways Reviews](https://github.com/Pranaykumar30/British-Airways-Review-analysis.git)**  
   Applied NLP techniques to analyze airline review sentiments, providing actionable insights for customer satisfaction enhancements.
 
 - **Remote-Controlled Fire Extinguisher**  
