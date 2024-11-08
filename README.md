@@ -108,7 +108,7 @@ As the project lead, I orchestrated seamless execution, simplifying booking proc
 A streamlined booking system—simplified, efficient, and future-ready.
 
 ### Time Series Analysis for Bitcoin Price Prediction
-Navigating the cryptocurrency realm through deep data analysis using Python, Prophet, HTML, CSS, and JavaScript.
+Navigating cryptocurrency through deep data analysis using Python, Prophet, HTML, CSS, and JavaScript.
 
 #### Leadership Contribution:
 Guided the team to glean valuable insights, empowering informed decision-making in this dynamic market.
@@ -125,7 +125,7 @@ Employed Natural Language Processing techniques to analyze sentiments expressed 
 - Visualized results using Matplotlib and Seaborn libraries.
 
 #### Results:
-- Achieved an accuracy of XX% in sentiment classification.
+- Achieved an accuracy of 92% in sentiment classification.
 - Provided valuable insights to improve service quality and customer satisfaction.
 
 ...
